@@ -107,8 +107,8 @@ class Login extends StatelessWidget {
                       'Por favor, ingrese el usuario y/o contraseña',
                       style: TextStyle(color: Colors.red),
                     );
-                  } else if ((inputUser == "Gabeto") &&
-                      (inputPass == "Cambitron123")) {
+                  } else if ((inputUser == "Benjamin") &&
+                      (inputPass == "Persito123")) {
                     print("Log In exitoso");
                     context.pushNamed(Home.name, extra: inputUser);
                   } else {

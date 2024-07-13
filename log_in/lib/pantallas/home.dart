@@ -32,7 +32,7 @@ class Home extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Icon(Icons.person, size: 40),
-                    Text('Gabeto',
+                    Text('Benjamin',
                         style: TextStyle(
                             fontSize: 40, fontWeight: FontWeight.bold)),
                   ],
@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Icon(Icons.key, size: 40),
-                    Text('Cambitron123',
+                    Text('Persito123',
                         style: TextStyle(
                             fontSize: 40, fontWeight: FontWeight.bold)),
                   ],
